@@ -1,4 +1,4 @@
-# cloud-test-demo
+# springcloud-demo
 
 该项目基于springboot+springcloud编码，应用于基于kubernetes平台的一些测试工作，包含三个子项目`eureka-server`、`consumer`、`provider`，且架构如下：
 
